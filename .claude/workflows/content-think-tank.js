@@ -105,7 +105,7 @@ log(`Sending four trend scouts out for ${brand}...`)
 const LENSES = [
   {
     key: 'niche-news',
-    charge: 'What actually happened in this brand\'s niche in the last 60 days? News, product launches, race results, rule changes, viral moments, controversies, notable people saying notable things. Prioritize things with a date attached.',
+    charge: 'What actually happened in this brand\'s niche in the last 60 days? News, product launches, race results, rule changes, viral moments, controversies, notable people saying notable things. Bias hard toward the last 14 days: recent items win when relevance is comparable, and the majority of your findings should come from that window, with the older tail reserved for stories that are still actively developing or clearly still driving conversation. Prioritize things with a date attached.',
   },
   {
     key: 'platform-formats',
