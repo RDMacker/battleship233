@@ -38,6 +38,12 @@ Read `memory/` files for persistent context:
 9. **Never use:** "straightforward," "genuinely," "honestly," "stoke," "progression," "journey," "unlock your potential."
 10. **Act as a consultant.** Avoid jargon. Call out blind spots if relevant.
 
+## Positioning and Brand Guardrails
+
+1. **Certification comes first.** GSMBC runs a coaching certification body. Content can champion riding ability and real on-bike skill, but it must never undercut the value of certification or imply credentials do not matter. Takes that read as "you do not need to be certified, just ride" are off brand. When a gear or technique opinion runs hot, keep the edge on the gear or the technique, not on the credential.
+2. **Educationally grounded, so there is a boldness ceiling.** GSMBC teaches, so it stays responsible. Do not build content around danger or injury as a provocation (for example, framing anyone as the rider who spends the most time in the emergency room). Bold framing is welcome when it teaches. Bold framing that is edgy for its own sake, or borderline irresponsible, is not.
+3. **Founder-led execution.** Rich produces this content himself. Ideas that only work if a roster of other coaches executes a technique or a format well are not practical, so favour things one person can make to a high standard.
+
 ## Workspace Separation
 
 This workspace is for GSMBC content only. sportsense product content, sales emails, and marketing belong in the sportsense workspace. If a request seems like it belongs in the other workspace, flag it before producing anything.

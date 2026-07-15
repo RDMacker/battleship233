@@ -34,6 +34,16 @@ Set the real channel priorities in the brief so the personas and facilitator wei
 
 If a focus argument names a channel or format that sits outside the brand's real mix, honour the intent but note the mismatch in the brief rather than silently building the whole slate around it.
 
+### What the gsmbc room has learned
+
+Fold these lessons from past gsmbc sessions into the brief so the personas and critics weight the slate correctly:
+
+- **Blogs need real depth, and the hook lives in the mechanism or the history.** A thin "here is a take" blog is not enough. The strongest angle usually digs into why the technique is what it is: the actual reason riders no longer lean back on steep descents is the dropper post, so the piece becomes the history of the equipment that changed the technique. Pitch blogs with that kind of depth, not surface opinions.
+- **Veins worth mining more of:** the science of skill acquisition and the cost of unlearning (what it takes to get good, then unlearn it, then rebuild the basics); overlooked equipment details riders never think about (brake lever setup is a strong example, do more in that flavour); a technique made visual as a short demo video (what "light hands, heavy feet" actually looks like); and veteran coaches reviewing their own old footage (the "things I have outgrown" angle).
+- **Do not pitch operations as content.** Answer-first and FAQ-style formats are a house-style footnote at the end of a blog, not a standing content product and not a brainstormed idea. Standing formats that really just describe a workflow ("refresh this every week") are operational, so leave them out of the creative slate.
+- **Do not re-pitch what already ships.** GSMBC already sends a Monday and a Thursday email, so an idea cannot just be "send a Thursday email." If a pitch touches an existing slot, it has to bring the specific actionable angle (the one small thing to work on this Thursday), not the format itself.
+- **Keep the edge on the gear, not the credential, and mind the boldness ceiling.** Opinionated gear takes belong on Pinkbike and stay pointed at the gear. GSMBC runs a certification body and stays educationally grounded, so ideas must not argue against certification or lean on injury and danger as a provocation. See the brand file guardrails.
+
 ## Step 3: Run the workflow
 
 Get today's date with the `date +%Y-%m-%d` command (the workflow cannot read the clock itself). Then invoke the Workflow tool:
