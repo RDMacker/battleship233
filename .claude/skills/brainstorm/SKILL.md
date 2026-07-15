@@ -1,7 +1,7 @@
 ---
 name: brainstorm
-description: Run a multi-agent content think tank for one of Rich's brands (gsmbc, sportsense, pubgolf). Spawns live-web trend scouts, five distinct marketer personas, adversarial critics, and a facilitator, then saves a ranked slate of content ideas for blogs, YouTube, and Instagram. Use whenever Rich asks to brainstorm content, generate content ideas, or "get the room together" for a brand.
-argument-hint: <brand> [optional focus, e.g. "YouTube series ideas" or "spring race season"]
+description: Run a multi-agent content think tank for one of Rich's brands (gsmbc, sportsense, pubgolf). Spawns live-web trend scouts, five distinct marketer personas, adversarial critics, and a facilitator, then saves a ranked slate of content ideas across blogs, Instagram and Meta, short video, and email. Use whenever Rich asks to brainstorm content, generate content ideas, or "get the room together" for a brand.
+argument-hint: <brand> [optional focus, e.g. "Instagram Reels angles" or "spring race season"]
 ---
 
 # Content Think Tank
@@ -23,6 +23,16 @@ If no brand is given, ask which brand the session is for rather than guessing. I
 ## Step 2: Build the brand brief
 
 Read the brand file(s) and distill a brief of roughly 400 to 700 words containing: what the brand is and who runs it, the audience and what they respond to, the channels it publishes to, the voice and the non-negotiable writing rules (banned words, no em dashes, no emojis, etc.), current positioning and messaging priorities, and anything from the file about what has worked or flopped before. Quote writing rules exactly; the agents downstream must obey them when writing titles and hooks.
+
+### Channel scope by brand
+
+Set the real channel priorities in the brief so the personas and facilitator weight ideas toward what the brand actually publishes on, rather than inventing a channel it does not run:
+
+- **sportsense**: predominantly Instagram and Meta (feed, Reels, carousels, Stories), then YouTube Shorts. Also email and the monthly newsletter. Short vertical video and Instagram-native formats are the priority. A full, long-form YouTube series is out of scope for now, so do not build the slate around one; if a piece would work as a series, frame it as a repeatable Reels or Shorts format instead.
+- **gsmbc**: Squarespace blog, the Monday/Thursday newsletter, monthly Instagram course-schedule carousels (built in Canva), and Pinkbike feature articles. GSMBC does not run a YouTube channel, and its Instagram is carousels, not talk-to-camera Reels.
+- **pubgolf**: predominantly Instagram and Meta, and the mainstay is humour rather than occasion marketing. Most of the feed is memes, built on male-camaraderie movie moments and reaction images with a meme caption laid over the top (think Jordan Belfort's "I'm not leaving" from Wolf of Wall Street, or the "you son of a bitch, I'm in" Schwarzenegger reaction), riffing on drinking, the crew, the competition, and the wooden spoon. Stag dos are one occasion among several (birthdays, daytime sessions, work socials), not the default frame, so do not build a whole slate around stag season unless the focus asks for it. The brand's own graphic assets (the shareable scorecard and recap, how-to-play cards) stay flat and template-based with no photos of real bars or drinks, but lean the room into the meme humour above rather than treating every idea as a polished brand-design post. Both the memes and the flat assets ship without real user-generated footage.
+
+If a focus argument names a channel or format that sits outside the brand's real mix, honour the intent but note the mismatch in the brief rather than silently building the whole slate around it.
 
 ## Step 3: Run the workflow
 
