@@ -27,6 +27,6 @@ What happens in a session:
 3. **Challenge** — three adversarial critics score every idea: a skeptic who kills sameness, an audience advocate who scores real engagement likelihood, and an operator who checks a founder-led team can actually produce it on brand.
 4. **Synthesize** — a facilitator merges everything into a ranked report, including a mandatory "wildcards worth the risk" section so the out-there ideas survive the critics.
 
-Reports land in `brainstorms/<brand>-<date>.md` with a top-three picks list, a slate grouped by channel, a wildcards section, and what got killed and why. See `brainstorms/` for the 2026-07-14 sessions.
+Reports land in `brainstorms/` with a top-three picks list, a slate grouped by channel, a wildcards section, and what got killed and why. Reports are organised by the model that ran the session: `brainstorms/opus/<brand>-<date>-opus.md` for the Opus runs and `brainstorms/fable/<brand>-<date>-fable.md` for the Fable comparison runs.
 
 The room's structure lives in `.claude/workflows/content-think-tank.js`; the entry point, the per-brand channel scope, and the brief setup live in `.claude/skills/brainstorm/SKILL.md`.
