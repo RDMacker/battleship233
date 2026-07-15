@@ -65,8 +65,8 @@ color for marketing assets.
   bottom-right, separated by a hairline.
 - Flat design. No gradients, no drop shadows, no photos of real bars/drinks
   in owned creative — the brand is graphic/typographic, not photographic.
-  (UGC and recap screenshots from real users are the exception — see
-  Content Pillars.)
+  (UGC and recap screenshots from real users, and meme posts that caption
+  found movie or reaction stills, are the exceptions — see Content Pillars.)
 
 ### Voice
 Confident, funny, a little competitive-smack-talk — a mate egging you on,
@@ -142,6 +142,17 @@ These map to the post types already built and tested (see
 `instagram-assets/` for the current 9-slide set). Use this as the menu when
 briefing new creative — every asset should clearly be one of these, not a
 grab-bag of "content."
+
+The highest-volume pillar in practice is **meme humor**, which most of the
+Instagram and Meta feed now runs on: male-camaraderie movie moments and
+reaction images with a meme caption laid over the top (think Jordan
+Belfort's "I'm not leaving" from Wolf of Wall Street, or the "you son of a
+bitch, I'm in" Schwarzenegger reaction), riffing on drinking, the crew, the
+competition, and the wooden spoon. Stag dos are one occasion among several,
+not the default frame. Memes are the exception to the flat, graphic-only
+rule (they caption found movie and reaction stills); the nine numbered
+pillars below are the brand-made graphic posts that support the humor, and
+they stay flat and typographic.
 
 1. **Hero / brand statement** — one strong line, minimal, sets the tone.
    ("An epic session. And the scorecard to prove it.")

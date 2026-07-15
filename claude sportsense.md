@@ -31,6 +31,10 @@ These rules apply to ALL copy produced in this workspace: emails, blogs, social,
 
 **Warm leads (prospects):** Have shown interest but not committed. Be concise. One value point, one CTA, no pressure. Goal is to restart the conversation, not close the sale.
 
+## Channels and Formats
+
+Content is published predominantly on Instagram and Meta (feed, Reels, carousels, Stories), then YouTube Shorts, alongside outbound and lifecycle email and the monthly newsletter. Short vertical video and Instagram-native formats are the priority. A full, long-form YouTube series is out of scope for now, so lead with repeatable short-form formats, and if an idea would sustain a series, frame it as a recurring Reels or Shorts format rather than a long-form show. YouTube is used for Shorts and for podcast or interview show notes and descriptions, not for a standalone long-form series.
+
 ## The Core Problem
 
 Coaches lose athletes not because the coaching is bad, but because athletes cannot afford or schedule more in-person sessions. The line coaches hear constantly: "I love training with you but I cannot come more often." That is not a lost client. That is an untapped recurring revenue opportunity. Coaches have no infrastructure to serve those athletes at a lower price point and still get paid consistently.
