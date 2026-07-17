@@ -11,17 +11,32 @@ export const meta = {
 }
 
 // ---- inputs -------------------------------------------------------------
+// Normalize: the harness may hand `args` in as a parsed object or as a JSON
+// string. Accept either so a stringified payload does not trip the guard.
 
-if (!args || !args.brand || !args.brandBrief || !args.date) {
-  throw new Error('content-think-tank requires args: {brand, brandBrief, date, focus?, ideasPerPersona?}')
+let input = args
+let peel = 0
+while (typeof input === 'string' && peel++ < 5) {
+  try {
+    input = JSON.parse(input)
+  } catch (e) {
+    break
+  }
 }
 
-const brand = args.brand
-const brief = args.brandBrief
-const today = args.date
-const perPersona = Math.min(args.ideasPerPersona || 6, 10)
-const focusLine = args.focus
-  ? `Rich asked this session to lean toward: ${args.focus}. Weight your work accordingly, but do not ignore everything else.`
+if (!input || typeof input !== 'object' || !input.brand || !input.brandBrief || !input.date) {
+  throw new Error(
+    'content-think-tank requires args: {brand, brandBrief, date, focus?, ideasPerPersona?}. Received type=' +
+    (typeof args) + ', keys=' + (input && typeof input === 'object' ? Object.keys(input).join(',') : 'none')
+  )
+}
+
+const brand = input.brand
+const brief = input.brandBrief
+const today = input.date
+const perPersona = Math.min(input.ideasPerPersona || 6, 10)
+const focusLine = input.focus
+  ? `Rich asked this session to lean toward: ${input.focus}. Weight your work accordingly, but do not ignore everything else.`
   : 'No specific focus was requested; cover the brand broadly.'
 
 const COMMON = [
