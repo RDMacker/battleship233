@@ -12,16 +12,19 @@ export const meta = {
 
 // ---- inputs -------------------------------------------------------------
 
-if (!args || !args.brand || !args.brandBrief || !args.date) {
+// Some invocation paths deliver args as a JSON string rather than an object.
+const input = typeof args === 'string' ? JSON.parse(args) : args
+
+if (!input || !input.brand || !input.brandBrief || !input.date) {
   throw new Error('content-think-tank requires args: {brand, brandBrief, date, focus?, ideasPerPersona?}')
 }
 
-const brand = args.brand
-const brief = args.brandBrief
-const today = args.date
-const perPersona = Math.min(args.ideasPerPersona || 6, 10)
-const focusLine = args.focus
-  ? `Rich asked this session to lean toward: ${args.focus}. Weight your work accordingly, but do not ignore everything else.`
+const brand = input.brand
+const brief = input.brandBrief
+const today = input.date
+const perPersona = Math.min(input.ideasPerPersona || 6, 10)
+const focusLine = input.focus
+  ? `Rich asked this session to lean toward: ${input.focus}. Weight your work accordingly, but do not ignore everything else.`
   : 'No specific focus was requested; cover the brand broadly.'
 
 const COMMON = [
