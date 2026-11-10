@@ -1,0 +1,103 @@
+# Content Think Tank: sportsense (November 10, 2026)
+
+The picture this month favours coaching over hardware. Ghost Bikes announced its closure on November 3 as the first Accell brand to shut outright after the group's bankruptcy, the same week Honda unveiled its first e-MTB at EICMA, so the industry is shedding legacy brands while mainstream giants arrive. On the coaching side, Garmin's July 22 acquisition of TrainingPeaks and TrainHeroic is still an open wound, and Garmin's own COO said on November 8 that customers who want more than AI coaching should engage a human coach, which is the biggest wearables company on earth positioning the human coach as the premium layer. The 2026 race season closed at Lake Placid in October, the 2027 World Cup calendar is confirmed through a Whistler finale, and the northern-hemisphere off-season has just opened, which is the precise window when in-person bookings dry up and the remote-coaching argument lands hardest. The platform data points one direction too: Reels for reach, carousels for saves, and the October 1 Shorts originality update actively rewarding the original annotated footage this brand produces as a byproduct of the work.
+
+## The slate
+
+### Blog
+
+**What should a coach charge for remote video coaching? Here is an actual number**
+Format: direct-answer blog post with a matching carousel. Boldness: 2/5. Merged from analyst-2, insider-2 and thought-leader-2, keeping analyst-2's pricing framework, insider-2's search-language question title and thought-leader-2's argument as the spine. The post answers in the first sentence (a remote package sits between 50 and 150 dollars a month, and here is where you place yourself on that range), then shows the working: 2026 guides put async coaching at 50 to 175 dollars a month, video review is the documented trigger into the 300 to 600 dollar premium tier, and The Mind Mountain plus a public 69.99 dollar unlimited-analysis tier give real MTB anchors. The position that carries it is that pricing video review as a discount add-on is wrong, because it is the documented premium trigger.
+Hook: every pricing guide agrees video review is what moves a coach into the premium tier, and not one of them will tell you what to charge for it, so here is the number.
+Why now: no 2026 pricing guide treats video analysis as its own service, so the question coaches are typing has no authoritative owner, and November is when coaches set their winter offer.
+Critics: all three reviewers called some version of this the cheapest, highest-leverage item on the slate, a day of writing with zero authoritative competition.
+
+**The bike industry just had its worst year in a decade, and coaching barely noticed**
+Format: founder essay from Rich, blog plus newsletter. Boldness: 3/5. From thought-leader-1 with the thesis repaired: the desire to improve survives the downturn, but only coaches who price for it capture that demand, which reconciles the Ghost Bikes hook with the brand's own churn data instead of contradicting it. The piece opens on Ghost closing after 33 years, argues that coaching revenue is tied to the rider's desire to improve rather than to bike shipments, and closes on the mechanism: a remote tier priced below the in-person session is what converts the squeezed athlete into durable monthly revenue.
+Hook: Ghost Bikes survived 33 years of the bike industry and did not survive 2026, yet not a single coach I know lost athletes because of it, and that gap is the most underrated fact in this sport right now.
+Why now: the closure landed November 3, the same week Honda entered e-MTB, so the contrast is live news this week.
+Critics: every reviewer flagged that the original downturn-proof thesis collided with the money-got-tight churn stat, and all three said the essay gets stronger once the argument runs through pricing rather than around it.
+
+### YouTube
+
+**Blind test: a chatbot and a coach review the same clip**
+Format: repeatable Short mirrored to Reels, scheduled biweekly to respect the real cost of a full structured review per episode. Boldness: 4/5. From maverick-3, absorbing insider-5 and analyst-5 as episode material and supporting evidence. One consented rider clip goes to ChatGPT or the MTBCoach app and to a working coach, both reviews appear unlabeled as Feedback A and Feedback B, viewers sit with them, then the reveal shows which was the machine and the one thing it could never do, which is reference frame 47 of this specific clip. Over episodes it compounds into the citable study of what AI tips consistently miss, with the Garmin COO and Cycling Weekly material folded in as evidence rather than as standalone videos.
+Hook: one of these reviews was written by a machine that never watched the video, and the rider who paid for the wrong one would spend a month fixing a problem they do not have.
+Why now: MTBCoach just arrived in the niche, riders are openly testing ChatGPT self-coaching on Vital, and Garmin positioned human coaches above its own AI on November 8.
+Critics: three advances, with the room agreeing the blind reveal is a real retention mechanic and that this format makes the other two AI pitches redundant on its own.
+
+**AI is coming for the coaches who were already phoning it in**
+Format: 60 to 90 second founder talking-head Short, cross-posted as a Reel. Boldness: 4/5. From thought-leader-4. Rich takes the position nobody in coaching says out loud: AI does not threaten all coaches, it replaces the ones whose product was already a generic tips list, while the coach who builds structured video review into their service is not competing with AI at all. The Garmin COO quote and the MTBCoach claim get verified before filming, since the close rests on them, and the edge stays in, because the argument is the distribution.
+Hook: AI will not replace mountain bike coaches, but it will absolutely replace the ones whose entire feedback loop was a text message saying look further ahead.
+Why now: the can-AI-replace-my-coach question is peaking across cycling media this month, and the answer format doubles as an AEO asset.
+Critics: three advances for the one genuinely arguable take on the slate, the cheapest to produce, with the only instruction being not to sand the edge off.
+
+**The comment section disagrees**
+Format: weekly YouTube Shorts template with a fixed three-beat structure, mirrored to Instagram as the same episode (this absorbs insider-1 as the Instagram arm, with analyst-3 and thought-leader-6 folded in as duplicates). Boldness: 2/5. Each episode shows a real public form-check post where the comments contradict each other, puts both pieces of advice on screen, then runs the frame-by-frame or overlay analysis that settles which cue applies to this rider in this moment, never mocking the rider or the commenters. The July r/MTB drop thread, where one commenter said get back and squat and the next said get forward and aggressive, is episode one, and the realistic budget is two to three hours per episode once consent or recreation is included.
+Hook: one commenter told this rider to get back and squat, the next told him to attack forward over the front, and they were watching the same eleven seconds of video, so at least one of them is guessing.
+Why now: the crowdsourced form-check behaviour is live right now, and the late-2026 Shorts freshness bias rewards a refillable weekly template over polished evergreen explainers.
+Critics: the best-specified version of the slate's most-pitched idea, and running it as one show feeding both channels ends the five-way duplication.
+
+### Instagram
+
+**One clip, one fix**
+Format: standing submission Reel series under 90 seconds, each episode paired with a carousel version for saves (analyst-1's best contribution, merged in here). Boldness: 2/5. From producer-1. Riders and coaches send in a single corner, drop or jump clip through a comment-keyword intake on a pinned Reel, and each episode answers exactly one with the skeletal overlay, one measured angle and one fix, which is a live unscripted demonstration of the remote review workflow without ever opening with the product. The first month is seeded entirely from Rich's own coaching footage, because a small account will not receive submissions on day one, and the intake becomes the growth mechanism rather than the launch mechanism.
+Hook: this rider sent in one corner clip and asked why the front wheel keeps washing out, and the answer is visible in the very first frame, and it is not what the comment section told him.
+Why now: golf normalised the send-us-your-swing session and esports players already pay strangers 30 dollars for VOD review, so the behaviour exists and nobody has packaged it for MTB, while both platforms' originality updates advantage exactly this native annotated footage.
+Critics: advanced twice with the intake pipeline praised as the piece every other submission pitch hand-waved, plus the cold-start fix now built in.
+
+**The 4.3 month breakup**
+Format: carousel. Boldness: 5/5. From maverick-4. A clearly stylised phone-mockup thread advances month by month through the real churn window, from the text every coach recognises (I love training with you but I cannot really afford to come more often) through polite postponements to silence at month four, each slide annotated with the stat it illustrates. The back half replays the identical conversation in an alternate timeline where the coach answers the first text with a lower-priced remote option and the thread keeps going into spring, with the mockups styled as obvious illustration so they never read as a passed-off real conversation, and the publish date staggered away from the churn email so the stat does not run three times in one window.
+Hook: first slide, a single text bubble reading I love training with you but I cannot come more often, captioned: this is not a compliment, it is the first message of a breakup that takes 4.3 months, and most coaches reply to it wrong.
+Why now: November is the month this text arrives in coaches' phones, and carousels are currently Instagram's highest-save format for coach reference material.
+Critics: two advances calling it the churn message in its most shareable body, a one-day Canva build that sells without a product mention.
+
+**Predict the front wheel**
+Format: weekly Story poll paying off into a Reel the next day (this absorbs maverick-6's daily game, cut to a cadence one founder can sustain). Boldness: 3/5. From producer-2. A Story freezes a rider mid-corner with a poll asking what happens next, then the Reel pays off the prediction with the overlay showing which joint angle gave it away three frames earlier, importing the setup-predict-demonstrate structure that research says analytically minded audiences reward. Votes get logged from day one so the audience-versus-coach accuracy gap can compound into citable data, but nothing gets published until the sample size can survive scrutiny.
+Hook: this rider is about to lose the front wheel, and you have two seconds to spot why before the overlay shows you what the coach saw.
+Why now: off-season riders are on their phones trying to keep their eye sharp, and Instagram's Your Algorithm rollout rewards an account known for one tightly defined thing.
+Critics: three advances for the shippable version of the prediction mechanic, with the explicit warning against publishing thin accuracy numbers honoured in the design.
+
+**A remote review, start to finish**
+Format: silent screen-capture process Reel, on-screen captions only, nearer 90 seconds than three minutes. Boldness: 3/5. From producer-3, tightened per the reviews: the episode cuts straight to the visually legible moments (scrubbing, angle drawing, overlay, side-by-side against the skill library reference) and drops the inbox and feedback-typing beats, which are dead air. It is the most honest possible answer to the skeptical coach's real question of what remote review actually looks like minute by minute, and an episode costs almost nothing beyond a session that was happening anyway.
+Hook: a cursor starts drawing on a frozen rider with one caption: a coach received this video at 7:14 this morning, and here is everything that happened before the rider got an answer.
+Why now: November 2026 roundups report raw footage outperforming produced content, and the originality updates favour native screen-captured work.
+Critics: called the cheapest idea on the slate relative to its persuasive power, with the edit now trimmed to the hypnotic annotation moments.
+
+**trainingpeaks coaches found out from a press release**
+Format: founder talking-head Reel plus a saveable checklist carousel (this absorbs analyst-6 and thought-leader-3, which pitched the same argument without the checklist). Boldness: 3/5. From insider-4. Rich opens on the detail that stings, that coaches learned Garmin had bought their platform from the press release, and argues the real variable in coaching software is not features but control: who holds the athlete relationships, the payment rails and the session history when the platform changes hands. The carousel is the asset coaches keep, the questions to ask any platform about data export, client contact ownership and pricing control, with the conflict of interest disclosed in frame, the press-release claim verified before publishing, and sportsense visibly passing its own checklist so the piece cannot boomerang.
+Hook: in July the biggest coaching platform in endurance sport was sold to Garmin, and the coaches who built their businesses on it found out the same way the rest of us did, from the press release.
+Why now: the acquisition is still an open wound this autumn, with coaches publicly asking which platforms remain independent, and Strava's October push into coach-designed workouts keeps the anxiety current.
+Critics: the winner of the three-pitch Garmin cluster because the checklist is the one genuinely saveable asset, provided the disclosure is upfront.
+
+### Email
+
+**Your athletes are not quitting coaching, they are quitting the price point**
+Format: stat-led outbound and lifecycle email with a same-week coach-facing Reel carrying the identical argument. Boldness: 2/5. Merged from analyst-4, insider-3 and thought-leader-5, taking analyst-4's proven structure and Reel pairing, insider-3's reframe that the quit text is evidence the coaching worked and the pricing failed, and thought-leader-5's closing line. The email leads with the stat (average online coaching tenure is about 4.3 months, steepest drop between months three and six, money got tight as a top honest reason), reframes churn as a pricing architecture failure, then walks exactly two workflows: a lower-priced monthly remote video tier and a between-sessions check-in cadence that carries athletes from November to April.
+Hook: subject line, the average online coaching client lasts 4.3 months. First line: that number is not a coaching failure, it is a pricing failure, and the difference matters because only one of them is fixable by Christmas.
+Why now: in-person bookings are drying up this exact month, and the churn data is current and citable.
+Critics: three near-identical pitches that each reviewer wanted collapsed into one send, so this version carries the best structure, the best reframe and the sharpest single line in the room.
+
+**The film room**
+Format: named monthly newsletter segment with a carousel mirror on the grid. Boldness: 1/5. From producer-6. One frame from a real consented and anonymised coaching session, one drawn line or measured angle, and one mechanism explained in plain flowing language, the way NFL film-study writers break down All-22 tape. The fixed structure costs about an hour a month, anchors the newsletter in months with no product news, and over a year becomes twelve dated examples of a coach seeing something an athlete could not, which is the sales argument made entirely as editorial.
+Hook: subject line, one frame, one drawn line, and the reason this rider kept going over the bars.
+Why now: film-dissection media is sustaining paid audiences right now, carousels hold the top save rates, and off-season coaches have both the reading time and the revenue gap.
+Critics: three advances for a proven format at near-zero marginal cost, the clearest exceptional-execution-of-a-proven-format case on the slate.
+
+## Wildcards worth the risk
+
+**the sportsense off-season earnings call, Q4 2026** (email plus Reel companion, boldness 5/5, from maverick-2). Two reviewers asked for the parody stripped out entirely, and the risk is real: earnings-call humour is a finance-culture in-joke, and MTB coaches do not live there, so if the bit runs longer than the numbers justify the piece dies in paragraph two. It is worth taking because nobody in any coaching niche is doing it, every line item is sourced and true, and a November publish makes sportsense the author of the state-of-the-coaching-economy genre before Strava's December data drop takes all the oxygen. The hedge is to confine the bit to the subject line and the opening paragraph, let the sourced numbers carry the body, and cut the closing usage dataset unless the sample genuinely holds.
+
+**Pit wall radio: race engineering for one corner** (Reels series, boldness 4/5, from maverick-5). The operator killed it, correctly, over invented sector splits and delta readouts, because fabricated data-looking numbers from a brand whose entire pitch is honest measurement would be self-harm, and the edit load per episode is heavy. The upside is that the ghosted side-by-side with the clipped race-engineer voice is the freshest visual language in the entire slate, a vocabulary no MTB coaching content uses, with the 2027 calendar giving riders a season to engineer toward. The condition for running it: show only measurements the tool actually makes, no invented telemetry, and prove the template on one corner before promising a series.
+
+**The trial of the comment section** (Reels, boldness 4/5, from maverick-1). The risks are that courtroom parody is a worn trope, that reading comments as testimony can tip into mockery however calmly delivered, and that the plain version of this format already ships weekly as The comment section disagrees. It earns a place anyway because testimony versus forensic evidence is the most memorable articulation of the brand's core argument, that opinion disagrees with itself and measurement does not. Run it dry, never mocking, as an occasional special episode inside the weekly show rather than a parallel series, and it becomes the episode people send each other.
+
+## Killed, and why
+
+Almost nothing died on merit; it died of duplication and of scale blindness. The room pitched five versions of the contradictory-comments format, three pricing posts, three churn emails and three Garmin pieces, which means the critics spent most of their votes refereeing clusters rather than testing ideas, and future sessions should assign territory before pitching. The second pattern was formats that assume an audience the account does not have: submission mechanics that die on an empty inbox, a daily Stories cadence no founder sustains past week three, and published accuracy or hook-test statistics from samples too thin to survive scrutiny, which is a special sin for a brand built on honest measurement. The third was topic drift, with marketing-about-marketing content that would dilute the single-subject positioning the slate's own algorithm arguments depend on. The rule that falls out of all three: one owner per territory, every mechanic stress-tested at current audience size, fresh angles over fresh costumes, and never put a number on screen the tool did not actually measure.
+
+## If you only make three things this month
+
+1. **The pricing post**: one day of writing that claims the one coach question nobody owns, published in the exact month coaches set their winter prices, and the foundation of the AEO strategy.
+2. **One clip, one fix**: the standing show that demonstrates the remote review workflow every week without pitching it, seeded from footage Rich already has, compounding into a recognisable format.
+3. **The churn email**: the brand's proven stat-plus-two-workflows structure carrying the sharpest line in the room, sent while the breakup texts are actually arriving, with the 4.3 month breakup carousel following a week later to land the same argument on the grid.
